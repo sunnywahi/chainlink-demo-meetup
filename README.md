@@ -23,7 +23,7 @@ Contract addresses for the same
 ```
 
 
-##1. Consuming data from your API in CheckBalanceWithExternalApi ##
+##2. Consuming data from your API in CheckBalanceWithExternalApi ##
 
 In this smart contract we focus on consuming data from our hosted node, where we have defined a job that gets data from our API i.e. running a
 as a serveless function in cloud
@@ -74,3 +74,5 @@ observationSource = """
     decode_log -> decode_cbor -> fetch -> parse -> encode_data -> encode_tx -> submit_tx
 """
 ```
+
+##3.Reading external data feed PriceFeedConsumer on Polygon ##
