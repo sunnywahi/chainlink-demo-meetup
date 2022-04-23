@@ -4,6 +4,7 @@ pragma solidity ^0.8.2;
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@chainlink/contracts/src/v0.8/ChainlinkClient.sol";
 
+// This contract- enables you to send a request to directRequest Job.
 contract CheckBalanceWithExternalApi is Ownable, ChainlinkClient {
     using Chainlink for Chainlink.Request;
 

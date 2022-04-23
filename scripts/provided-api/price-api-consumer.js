@@ -16,7 +16,7 @@ async function main() {
         process.exit(1);
     }
     let contractAddress = applicationData.contracts[networkName].contractAddress;
-    const tokenName = "Defi";
+    const tokenName = "SmartContractAustralia";
     const amount = 50;
     console.log(`on ${networkName} connecting to contract ${contractAddress} and minting the token ${tokenName}`);
     let apiConsumer;

@@ -18,7 +18,7 @@ async function main() {
     console.log(`on ${networkName} connecting to contract at address ${contractAddress} for checking tokenPrice\n`);
     let apiConsumer;
     let signer;
-    let tokenId = 4;
+    let tokenId = 5;
     if (chainId === 31337) {
         console.log(`connecting to local chain`);
         [signer] = await ethers.getSigners();
