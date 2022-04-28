@@ -4,10 +4,10 @@
       "contractAddress": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
     },
     "mumbai": {
-      "contractAddress": "0xD3211377F460D387762F6652bA30983D4AC612fC"
+      "contractAddress": "0x951277782A5b6127D9ebD4983623742cDAc587e2"
     },
     "kovan": {
-      "contractAddress": "0x7320e39d7c71D5463a6c73dD836CF007E155d6B7"
+      "contractAddress": "0xbdB6A516dA6Fee08E9008f11557472a2E004E5B1"
     }
   }
 }

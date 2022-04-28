@@ -107,3 +107,11 @@ dist
 
 /artifacts/build-info/*
 
+/.idea/misc.xml
+/.idea/modules.xml
+/cache/solidity-files-cache.json
+/cache/validations.json
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/chainlink-demo-meetup.iml
+/.idea/compiler.xml

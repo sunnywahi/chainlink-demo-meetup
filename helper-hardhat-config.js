@@ -21,8 +21,8 @@ const networkConfig = {
     42: {
         name: "kovan",
         linkToken: "0xa36085F69e2889c224210F603D836748e7dC0088",
-        oracle: "0xd8A207C172131DeDCD6B1cA83d16C5EAb3439A8b",
-        jobId: "a41d012f6b6a4fc5ba0dcde90df6895e",
+        oracle: "0x951277782A5b6127D9ebD4983623742cDAc587e2",
+        jobId: "9d5d0fe8731f415f8ec1a948bbb9edc2",
         fee: "100000000000000000",
         fundAmount: "100000000000000000", // 0.1
         apiKey: "cppEBH89lm7jjbzf517LDcWpKfbjVooz",

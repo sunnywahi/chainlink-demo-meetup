@@ -1,4 +1,7 @@
 {
     "mintGasLimit" : 301224,
-    "deployGasLimt" : 4557642
+    "deployGasLimt" : 30000000,
+    "aggregatorProxyDeployLimit": 4500000,
+    "feedConsumerDeployLimit" : 3000000,
+    "requestGasLimit" : 301224
 }

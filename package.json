@@ -14,7 +14,9 @@
     "mint-on-kovan": "node scripts/external-api/api-consumer.js 42 0.0.30818225 mint",
     "read-result-on-kovan": "node scripts/external-api/read-result.js 42",
     "verify-on-kovan": "npx hardhat run scripts/verify.js --network kovan",
-    "read-feed-on-mumbai": "node scripts/data-feed/read-from-feed.js 80001"
+    "read-feed-on-mumbai": "node scripts/data-feed/read-from-feed.js 80001",
+    "deploy-feed-on-kovan": "node scripts/data-feed/deploy-feed.js 42",
+    "add-node-to-oracle-kovan": "node scripts/external-api/register-my-node-to-oracle.js"
   },
   "repository": {
     "type": "git",
